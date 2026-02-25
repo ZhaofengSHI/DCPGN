@@ -10,7 +10,7 @@ We use CLIP (ViT-L-14) to extract video feature at 5FPS.
 You can access the processed video features of the *EgoMe-anti* and *EgoExoLearn* benchmarks by contacting the author by e-mail: zfshi@std.uestc.edu.cn
 
 ## Usage
-Take the **noun anticipation** under **Ego2Exo** setting on the *EgoExoLearn* benchmark as an example:
+Take the **noun** anticipation under **Ego2Exo** setting on the *EgoExoLearn* benchmark as an example:
 
 Step1: Train the source-view (Ego) model:
 
