@@ -1,6 +1,8 @@
 # DCPGN
 The code of our paper: *Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency*, accepted by **CVPR 2026**
 
+(This is the initial version of the code. Feel free to contact me if you encounter any issues.)
+
 ## Requirements
 Following the environment of EgoExoLearn (action_anticipation_planning_benchmark): https://github.com/OpenGVLab/EgoExoLearn/tree/main/action_anticipation_planning_benchmark
 
