@@ -5,7 +5,7 @@ The code of our paper: *Test-time Ego-Exo-centric Adaptation for Action Anticipa
 Following the environment of EgoExoLearn (action_anticipation_planning_benchmark): https://github.com/OpenGVLab/EgoExoLearn/tree/main/action_anticipation_planning_benchmark
 
 ## Data Preparation
-We use CLIP (ViT-L-14) to extract video feature of *EgoMe-anti* and *EgoExoLearn* benchmarks at 5FPS. 
+We use CLIP (ViT-L-14) to extract video feature for *EgoMe-anti* and *EgoExoLearn* benchmarks at 5FPS. 
 
 You can access the processed video features of the *EgoMe-anti* and *EgoExoLearn* benchmarks by contacting the author by e-mail: zfshi@std.uestc.edu.cn
 
