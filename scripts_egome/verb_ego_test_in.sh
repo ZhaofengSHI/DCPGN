@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=6 \
+bash scripts_szf_egome/anticipation_verb/ego_ego_test_in.sh

@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=7 \
+bash scripts_szf_egome/anticipation_verb/exo_exo_test_in.sh

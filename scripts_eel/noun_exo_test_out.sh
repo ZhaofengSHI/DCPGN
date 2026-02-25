@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=1 \
+bash scripts_szf_eel/anticipation_noun/exo_exo_test_out.sh
