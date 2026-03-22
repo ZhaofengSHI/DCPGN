@@ -43,7 +43,13 @@ bash scripts_eel/noun_ego_test_out_tta.sh
 **DCPGN method:**
 
 ```
-(To be published at CVPR 2026) Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency 
+(To be published at CVPR 2026) Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency
+@article{shi2026test,
+  title={Test-time Ego-Exo-centric Adaptation for Action Anticipation via Multi-Label Prototype Growing and Dual-Clue Consistency},
+  author={Shi, Zhaofeng and Qiu, Heqian and Wang, Lanxiao and Wu, Qingbo and Meng, Fanman and Pan, Lili and Li, Hongliang},
+  journal={arXiv preprint arXiv:2603.09798},
+  year={2026}
+}
 ```
 
 **EgoMe dataset:**
