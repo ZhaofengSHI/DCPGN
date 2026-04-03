@@ -11,6 +11,8 @@ We use CLIP (ViT-L-14) to extract video feature for *EgoMe-anti* and *EgoExoLear
 
 You can access the processed video features of the *EgoMe-anti* and *EgoExoLearn* benchmarks by contacting the author by e-mail: zfshi@std.uestc.edu.cn
 
+(Update on April 3, 2026): I have uploaded the processed features on Huggingface: https://huggingface.co/datasets/zhaofengshi/DCPGN/tree/main
+
 ## Usage
 Take the **noun** anticipation under **Ego2Exo** setting on the *EgoExoLearn* benchmark as an example:
 
